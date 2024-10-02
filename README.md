@@ -31,3 +31,7 @@ python3 install.py
 ```bash
 aut
 ```
+### 6. Launch chrome
+```bash
+google-chrome --proxy-server="socks5://127.0.0.1:9050"
+```
