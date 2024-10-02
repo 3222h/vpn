@@ -47,3 +47,7 @@ aut
 ```bash
 google-chrome --proxy-server="socks5://127.0.0.1:9050"
 ```
+### 10. Remove repo
+```bash
+rm -rf vpn
+```
