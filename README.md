@@ -23,23 +23,27 @@ git clone https://github.com/3222h/vpn.git
 ```bash
 cd vpn
 ```
-### 4. Install the Script
+### 4. Give permission
+```bash
+chmod +x install.py
+```
+### 5. Install the Script
 ```bash
 python3 install.py
   ```
-### 5. Run the Script
+### 6. Run the Script
 ```bash
 aut
 ```
-### 6. Ip
+### 7. Ip
 ```bash
 127.0.0.1
 ```
-### 7. Port
+### 8. Port
 ```bash
 9050
 ```
-### 8. Launch chrome
+### 9. Launch chrome
 ```bash
 google-chrome --proxy-server="socks5://127.0.0.1:9050"
 ```
