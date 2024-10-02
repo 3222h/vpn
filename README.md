@@ -14,3 +14,11 @@ This script automates the process of setting up and using Tor to anonymize your 
 
 ```bash
 git clone https://github.com/3222h/vpn.git
+
+sudo su
+
+cd vpn
+
+python3 install.py  
+
+aut
